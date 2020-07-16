@@ -3,13 +3,19 @@
 <br>step:
 <br> 
 #install python3 
+<br>
 $ > sudo apt-get install python3-pip
 <br>
-<b>install module 
+<br>install module 
+<br>
 $ > python3 -m pip install SpeechRecognition
+<br>
 $ > python3 -m pip install wikipedia
+<br>
 $ > python3 -m pip install gtts
+<br>
 $ > python3 -m pip install requests
+<br>
 $ > python3 -m pip install playsound
 <br>
 >> tunggu hingga selesai
