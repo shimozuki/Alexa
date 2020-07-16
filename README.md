@@ -5,7 +5,7 @@
 #install python3 
 $ > sudo apt-get install python3-pip
 <br>
-#install module 
+<b>install module 
 $ > python3 -m pip install SpeechRecognition
 $ > python3 -m pip install wikipedia
 $ > python3 -m pip install gtts
