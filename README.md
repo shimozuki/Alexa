@@ -6,7 +6,7 @@
 <br>
 $ > sudo apt-get install python3-pip
 <br>
-<br>install module 
+install module 
 <br>
 $ > python3 -m pip install SpeechRecognition
 <br>
