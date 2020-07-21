@@ -1,4 +1,4 @@
-<h1 align="center">Deteksi Masker</h1>
+<h1 align="center">ALEXA</h1>
 
 
 <img src= "https://github.com/shimozuki/deteksi-masker/blob/master/images/2.png" height=500 width=500>
